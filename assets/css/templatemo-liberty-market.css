@@ -124,12 +124,12 @@ body {
 }
 
 ::selection {
-  background: #7453fc;
+  background: #6B3692;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #7453fc;
+  background: #6B3692;
   color: #fff;
 }
 
@@ -137,7 +137,7 @@ body {
   font-size: 14px;
   color: #fff;
   background-color: transparent;
-  border: 1px solid #7453fc;
+  border: 1px solid #6B3692;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -161,15 +161,15 @@ body {
 }
 
 .border-button a:hover {
-  background-color: #7453fc;
+  background-color: #6B3692;
   color: #fff;
 }
 
 .main-button a {
   font-size: 14px;
   color: #fff;
-  background-color: #7453fc;
-  border: 1px solid #7453fc;
+  background-color: #6B3692;
+  border: 1px solid #6B3692;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -194,7 +194,7 @@ body {
 
 .main-button a:hover {
   background-color: #fff;
-  color: #7453fc;
+  color: #6B3692;
   border: 1px solid #fff;
 }
 
@@ -213,7 +213,7 @@ section {
 .section-heading .line-dec {
   width: 100px;
   height: 2px;
-  background-color: #7453fc;
+  background-color: #6B3692;
   margin: 0 auto 30px auto;
 }
 
@@ -227,7 +227,7 @@ section {
 }
 
 .section-heading h2 em {
-  color: #7453fc;
+  color: #6B3692;
   font-style: normal;
 }
 
@@ -304,7 +304,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #7453fc;
+  background: #6B3692;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
@@ -327,7 +327,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #7453fc;
+  background: #6B3692;
   border-radius: 50%;
 }
 
@@ -447,7 +447,7 @@ Header Style
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
   color: #fff;
-  background-color: #7453fc;
+  background-color: #6B3692;
 }
 
 .background-header .main-nav .nav li:hover a,
@@ -485,7 +485,7 @@ Header Style
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #7453fc;
+  background-color: #6B3692;
   display: block;
   position: absolute;
   width: 30px;
@@ -496,7 +496,7 @@ Header Style
 .background-header .main-nav .menu-trigger span,
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #7453fc;
+  background-color: #6B3692;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -505,7 +505,7 @@ Header Style
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #7453fc;
+  background-color: #6B3692;
   display: block;
   position: absolute;
   width: 30px;
@@ -516,7 +516,7 @@ Header Style
 
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #7453fc;
+  background-color: #6B3692;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -557,11 +557,11 @@ Header Style
   -ms-transform: translateY(6px) translateX(1px) rotate(45deg);
   -webkit-transform: translateY(6px) translateX(1px) rotate(45deg);
   transform: translateY(6px) translateX(1px) rotate(45deg);
-  background-color: #7453fc;
+  background-color: #6B3692;
 }
 
 .background-header .main-nav .menu-trigger.active span:before {
-  background-color: #7453fc;
+  background-color: #6B3692;
 }
 
 .header-area .main-nav .menu-trigger.active span:after {
@@ -569,11 +569,11 @@ Header Style
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
-  background-color: #7453fc;
+  background-color: #6B3692;
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #7453fc;
+  background-color: #6B3692;
 }
 
 .header-area.header-sticky {
@@ -624,7 +624,7 @@ Header Style
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #7453fc!important;
+    color: #6B3692!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -686,7 +686,7 @@ Header Style
   }
   .header-area .main-nav .nav li a:hover {
     background: #fff !important;
-    color: #7453fc!important;
+    color: #6B3692!important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
@@ -793,7 +793,7 @@ Banner Style
   line-height: 46px;
   font-size: 24px;
   display: inline-block;
-  color: #7453fc;
+  color: #6B3692;
   background-color: #fff;
   border-radius: 50%;
   opacity: 1;
@@ -865,7 +865,7 @@ Categories & Collections Style
   height: 46px;
   line-height: 46px;
   background-color: #fff;
-  color: #7453fc;
+  color: #6B3692;
   border-radius: 50%;
   font-size: 18px;
   position: absolute;
@@ -878,7 +878,7 @@ Categories & Collections Style
 }
 
 .categories .item .icon-button a:hover {
-  background-color: #7453fc;
+  background-color: #6B3692;
   color: #fff;
 }
 
@@ -943,7 +943,7 @@ Categories & Collections Style
 .collections .item .main-button a:hover {
   background-color: #fff;
   border: 1px solid #fff;
-  color: #7453fc;
+  color: #6B3692;
 }
 
 .collections .owl-nav {
@@ -972,7 +972,7 @@ Categories & Collections Style
   line-height: 46px;
   font-size: 24px;
   display: inline-block;
-  color: #7453fc;
+  color: #6B3692;
   background-color: #fff;
   border-radius: 50%;
   opacity: 1;
@@ -1132,7 +1132,7 @@ Currently Market Style
 
 .currently-market .filters ul li.active,
 .currently-market .filters ul li:hover {
-  background-color: #7453fc;
+  background-color: #6B3692;
 }
 
 .currently-market .item {
@@ -1170,7 +1170,7 @@ Currently Market Style
 }
 
 .currently-market .item .right-content span.author a {
-  color: #7453fc;
+  color: #6B3692;
   font-weight: 700;
   margin-top: 5px;
 }
@@ -1215,8 +1215,8 @@ Currently Market Style
 .currently-market .item .text-button a {
   font-size: 15px;
   font-weight: 700;
-  color: #7453fc;
-  border-bottom: 1px solid #7453fc;
+  color: #6B3692;
+  border-bottom: 1px solid #6B3692;
 }
 
 
@@ -1228,8 +1228,8 @@ Footer Style
 */
 
 footer {
-  background: rgb(125,90,254);
-  background: linear-gradient(132deg, rgba(125,90,254,1) 25%, rgba(160,84,244,1) 100%);
+  background: #6B3692;
+  background: linear-gradient(132deg, #6B3692 25%, rgba(160,84,244,1) 100%);
   text-align: center;
   padding: 25px 0px;
 }
@@ -1371,7 +1371,7 @@ Explore Style
 }
 
 .featured-explore .item .hover-effect .content span.author a {
-  color: #7453fc;
+  color: #6B3692;
   font-weight: 700;
   margin-top: 5px;
 }
@@ -1403,7 +1403,7 @@ Explore Style
   font-size: 22px;
   font-weight: 700;
   display: inline-block;
-  color: #7453fc;
+  color: #6B3692;
   background-color: #fff;
   border-radius: 50%;
   opacity: 0.5;
@@ -1465,8 +1465,8 @@ Explore Style
 .discover-items #search-form button {
   font-size: 14px;
   color: #fff;
-  background-color: #7453fc;
-  border: 1px solid #7453fc;
+  background-color: #6B3692;
+  border: 1px solid #6B3692;
   height: 46px;
   line-height: 46px;
   text-align: center;
@@ -1494,13 +1494,13 @@ Explore Style
 
 .discover-items #search-form button:hover {
   background-color: #fff;
-  color: #7453fc;
+  color: #6B3692;
   border: 1px solid #fff;
 }
 
 .discover-items .item span.banner {
   font-size: 15px;
-  background-color: #7453fc;
+  background-color: #6B3692;
   color: #fff;
   font-weight: 500;
   padding: 5px 15px;
@@ -1665,7 +1665,7 @@ Details Page Style
 }
 
 .item-details-page span.author a {
-  color: #7453fc;
+  color: #6B3692;
   font-weight: 700;
   margin-top: 5px;
 }
@@ -1682,7 +1682,7 @@ Details Page Style
 
 .item-details-page span strong {
   font-size: 20px;
-  color: #7453fc;
+  color: #6B3692;
 }
 
 .item-details-page p {
@@ -1720,7 +1720,7 @@ Details Page Style
 .item-details-page form input {
   width: 100px;
   height: 46px;
-  border: 1px solid #7453fc;
+  border: 1px solid #6B3692;
   outline: none;
   border-radius: 23px;
   background-color: transparent;
@@ -1736,8 +1736,8 @@ Details Page Style
 .item-details-page button {
   font-size: 14px;
   color: #fff;
-  background-color: #7453fc;
-  border: 1px solid #7453fc;
+  background-color: #6B3692;
+  border: 1px solid #6B3692;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 25px;
@@ -1762,7 +1762,7 @@ Details Page Style
 
 .item-details-page button:hover {
   background-color: #fff;
-  color: #7453fc;
+  color: #6B3692;
   border: 1px solid #fff;
 }
 
@@ -1783,7 +1783,7 @@ Details Page Style
 }
 
 .current-bid .mini-heading h4 {
-  background-color: #7453fc;
+  background-color: #6B3692;
   display: inline-block;
   font-size: 20px;
   padding: 10px 20px;
@@ -1818,7 +1818,7 @@ Details Page Style
 
 .current-bid .item .right-content a {
   font-size: 15px;
-  color: #7453fc;
+  color: #6B3692;
   font-weight: 700;
 }
 
@@ -1837,14 +1837,14 @@ Details Page Style
 
 .current-bid .item .right-content h6 em {
   font-size: 18px;
-  color: #7453fc;
+  color: #6B3692;
   font-style: normal;
   font-weight: 700;
 }
 
 .current-bid .item .right-content span.date {
   font-size: 15px;
-  color: #7453fc;
+  color: #6B3692;
 }
 
 
@@ -1875,7 +1875,7 @@ Author Page Style
 
 .author-page .author h4 a {
   font-size: 15px;
-  color: #7453fc;
+  color: #6B3692;
 }
 
 .author-page .right-info {
@@ -1891,13 +1891,13 @@ Author Page Style
 }
 
 .author-page .right-info i {
-  color: #7453fc;
+  color: #6B3692;
   font-size: 22px;
 }
 
 .author-page .right-info h6 {
   font-size: 20px;
-  color: #7453fc;
+  color: #6B3692;
   margin-top: 4px;
 }
 
